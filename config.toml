@@ -1,0 +1,34 @@
+baseURL = "https://mirischia.github.io"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "Tre"
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+pygmentsStyle = "dracula"
+
+[params]
+  avatarURL = "https://raw.githubusercontent.com/mirischia/mirischia.github.io/main/static/images/avatar.png"
+  avatarSize = "size-xl"
+  footer = "Tre"
+  description = "Games and Stuffs"
+  showPostsOnHomePage = "recent"
+  customHeadHTML = ""
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    url = "/posts/"
+    name = "Posts"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
