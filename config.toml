@@ -10,8 +10,9 @@ enableRobotsTXT = true
 pygmentsStyle = "dracula"
 
 [params]
-  avatarURL = "https://raw.githubusercontent.com/mirischia/mirischia.github.io/main/static/images/avatar.png"
+  avatarURL = "/images/avatar.png"
   avatarSize = "size-xl"
+  avatarAltText = "avatar"
   footer = "Tre"
   description = "Games and Stuffs"
   showPostsOnHomePage = "recent"
