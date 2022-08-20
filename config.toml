@@ -1,7 +1,7 @@
 baseURL = "https://mirischia.github.io"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Tre"
+title = "Mirischia"
 theme = "gokarna"
 
 # Automatically generate robots.txt
@@ -13,7 +13,7 @@ pygmentsStyle = "dracula"
   avatarURL = "/images/avatar.png"
   avatarSize = "size-xl"
   avatarAltText = "avatar"
-  footer = "Tre"
+  footer = "Mirischia"
   description = "Games and Stuffs"
   showPostsOnHomePage = "recent"
   customHeadHTML = ""
