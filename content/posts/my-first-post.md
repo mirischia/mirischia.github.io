@@ -7,6 +7,9 @@ tags: ["ffxiv"]
 
 ## hehe.
 ![Froggo Squad][1]
+
+---
+
 ![Froggo Squad][2]
 
 [1]: /images/froggo-team1.png
