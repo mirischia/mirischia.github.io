@@ -5,7 +5,7 @@ date: 2021-08-15T17:51:40-03:00
 tags: ["ffxiv"]
 ---
 
-## hehe.
+## Ribbit.
 ![Froggo Squad][1]
 
 ---
