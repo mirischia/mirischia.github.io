@@ -2,6 +2,7 @@
 title: "uwuwowuwownmn"
 type: "post"
 date: 2022-08-20T14:52:56-03:00
+url: /owo-uwu
 tags: ["ffxiv"]
 ---
 ##### *Last updated on september 22, 2022*
