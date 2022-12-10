@@ -5,7 +5,7 @@ date: 2022-08-20T14:52:56-03:00
 url: /owo-uwu
 tags: ["ffxiv"]
 ---
-##### *Last updated on september 22, 2022*
+##### *Last updated on Dec 10, 2022*
 
 # uwu
 ![lala1](/images/lala/lala1.png)
@@ -91,5 +91,13 @@ tags: ["ffxiv"]
 ---
 
 ![bun2](/images/bunn/bun2.png)
+
+---
+
+![bun3](/images/bunn/bun3.png)
+
+---
+
+![bun4](/images/bunn/bun4.png)
 
 ---
